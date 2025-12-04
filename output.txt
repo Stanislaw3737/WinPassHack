@@ -1,0 +1,6 @@
+Impacket v0.13.0 - Copyright Fortra, LLC and its affiliated companies 
+
+[*] Target system bootKey: 0x55f7f2a4656bc63b68812c280bd0dfcb
+[*] Dumping local SAM hashes (uid:rid:lmhash:nthash)
+[-] SAM hashes extraction failed: [Errno 22] Invalid argument
+[*] Cleaning up... 
